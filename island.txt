@@ -1,0 +1,5 @@
+1	casserole
+2	book
+3	knife
+4	water bottle
+5	fishing rod
